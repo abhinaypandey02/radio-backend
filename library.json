@@ -1,0 +1,29 @@
+{
+  "library": [
+    {
+      "name": "7",
+      "url": "https://firebasestorage.googleapis.com/v0/b/radio-22579.appspot.com/o/10%20second%20chill%20music%20%237%20_%20best%20to%20relax%20to!.mp3?alt=media&token=76f05156-7a41-4e10-83a2-f83072f07089",
+      "duration": 12,
+      "id": "7"
+    },
+    {
+      "name": "8",
+      "url": "https://firebasestorage.googleapis.com/v0/b/radio-22579.appspot.com/o/10%20second%20chill%20music%20%238%20_%20best%20to%20relax%20too.mp3?alt=media&token=2c46012a-3a97-4a1b-bb2a-603979a0f40a",
+      "duration": 5,
+      "id": "8"
+    },
+    {
+      "name": "9",
+      "url": "https://firebasestorage.googleapis.com/v0/b/radio-22579.appspot.com/o/10%20second%20chill%20music%20%239%20_%20best%20to%20relax%20Too.mp3?alt=media&token=bd659e84-11b6-4a8f-9ecd-ccad81d96b25",
+      "duration": 11,
+      "id": "9"
+    },
+    {
+      "name": "10",
+      "url": "https://firebasestorage.googleapis.com/v0/b/radio-22579.appspot.com/o/10%20second%20chill%20music%20%2310%20_%20Best%20One%20Yet!.mp3?alt=media&token=56cdb8f7-eef4-4600-8055-d5d12e7d93e8",
+      "duration": 10,
+      "id": "10"
+    }
+
+  ]
+}
