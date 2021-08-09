@@ -2,9 +2,12 @@ import Song from "../interfaces/Song";
 import CurrentlyPlaying from "../interfaces/CurrentlyPlaying";
 
 const SYNC_RATE=1000;
-const WAIT_TIME=5000
+const WAIT_TIME=5000;
 
 export default class Queue {
+    get nextSong(): CurrentlyPlaying | null {
+        return this._nextSong;
+    }
     get currentState(): "W" | "P" | "X" {
         return this._currentState;
     }
@@ -40,8 +43,8 @@ export default class Queue {
         return this._queue[Math.floor(Math.random() * this._queue.length)]
     }
 
-    play(song: Song) {
-        this._currentSong = { song, start: new Date().getTime() };
+    play(song: Song,start:number) {
+        this._currentSong = { song, start };
         this._currentState = "P";
         this._nextSong=null;
     }
@@ -54,17 +57,24 @@ export default class Queue {
 
     breakPhase() {
         const time = new Date();
-        time.setSeconds(time.getSeconds() + 5);
+        time.setSeconds(time.getSeconds() + WAIT_TIME/1000);
         this._nextSong = {start: time.getTime(), song: this.getSongFromQueue()};
         this._currentState="W";
     }
 
     next() {
-        let nextSong;
-        if (this._currentState === "W"&&this._nextSong)  nextSong = this._nextSong.song;
-        else nextSong = this.getSongFromQueue();
+        let nextSong,start;
+
+        if (this._currentState === "W"&&this._nextSong) {
+            nextSong = this._nextSong.song;
+            start=this._nextSong.start;
+        }
+        else {
+            nextSong = this.getSongFromQueue();
+            start=new Date().getTime();
+        }
         this.deleteFromQueue(nextSong);
-        this.play(nextSong)
+        this.play(nextSong,start)
     }
 
 }

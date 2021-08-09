@@ -13,7 +13,6 @@ queue.next();
 io.on("connection",(socket:Socket)=>{
     console.log(socket.id);
     socket.on("askSong",()=> {
-        console.log("MILA")
-        socket.emit("receiveSong",queue.currentSong,queue.currentState);
+        socket.emit("receiveSong",queue.currentSong,queue.currentState,queue.nextSong);
     });
 })
