@@ -12,7 +12,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.12",
+    "ts-node": "^10.2.0"
   },
   "dependencies": {
     "socket.io": "^4.1.3"
