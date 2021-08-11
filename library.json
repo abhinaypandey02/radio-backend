@@ -1,29 +1,82 @@
 {
   "library": [
     {
-      "name": "7",
-      "url": "https://firebasestorage.googleapis.com/v0/b/radio-22579.appspot.com/o/10%20second%20chill%20music%20%237%20_%20best%20to%20relax%20to!.mp3?alt=media&token=76f05156-7a41-4e10-83a2-f83072f07089",
-      "duration": 12,
-      "id": "7"
+      "name": "Aayat - Arijit Singh [WORMONO Lofi Remake] _ Bajirao Mastani _ Bollywood Lofi",
+      "url": "https://firebasestorage.googleapis.com/v0/b/radio-22579.appspot.com/o/Aayat%20-%20Arijit%20Singh%20%5BWORMONO%20Lofi%20Remake%5D%20_%20Bajirao%20Mastani%20_%20Bollywood%20Lofi.mp3?alt=media&token=b1684307-6441-47a4-973a-9f811a271baa",
+      "duration": 209,
+      "id": "aayat"
     },
     {
-      "name": "8",
-      "url": "https://firebasestorage.googleapis.com/v0/b/radio-22579.appspot.com/o/10%20second%20chill%20music%20%238%20_%20best%20to%20relax%20too.mp3?alt=media&token=2c46012a-3a97-4a1b-bb2a-603979a0f40a",
-      "duration": 5,
-      "id": "8"
+      "name": "Dildara - Shafqat Amanat Ali [WORMONO x Happy Pills Lofi Remake] - Ra.One - Bollywood Lofi (192 kbps)",
+      "url": "https://firebasestorage.googleapis.com/v0/b/radio-22579.appspot.com/o/Dildara%20-%20Shafqat%20Amanat%20Ali%20%5BWORMONO%20x%20Happy%20Pills%20Lofi%20Remake%5D%20-%20Ra.One%20-%20Bollywood%20Lofi%20(192%20kbps).mp3?alt=media&token=13fbdb40-9012-4695-a5ea-42e83706fba4",
+      "duration": 140,
+      "id": "dildara"
     },
     {
-      "name": "9",
-      "url": "https://firebasestorage.googleapis.com/v0/b/radio-22579.appspot.com/o/10%20second%20chill%20music%20%239%20_%20best%20to%20relax%20Too.mp3?alt=media&token=bd659e84-11b6-4a8f-9ecd-ccad81d96b25",
-      "duration": 11,
-      "id": "9"
+      "name": "Humdard - WORMONO Lofi Remake (Slowed + Reverb) _ 3 AM Bollywood Lofi",
+      "url": "https://firebasestorage.googleapis.com/v0/b/radio-22579.appspot.com/o/Humdard%20-%20WORMONO%20Lofi%20Remake%20(Slowed%20%2B%20Reverb)%20_%203%20AM%20%F0%9F%8C%83Bollywood%20Lofi.mp3?alt=media&token=f0fd1d90-558e-4fc6-af74-b401cabac2b1",
+      "duration": 264,
+      "id": "hamdard"
     },
     {
-      "name": "10",
-      "url": "https://firebasestorage.googleapis.com/v0/b/radio-22579.appspot.com/o/10%20second%20chill%20music%20%2310%20_%20Best%20One%20Yet!.mp3?alt=media&token=56cdb8f7-eef4-4600-8055-d5d12e7d93e8",
-      "duration": 10,
-      "id": "10"
+      "name": "Iktara - Kavita Seth, Amit Trivedi [WORMONO Lofi Remake] _ Wake Up Sid _ Bollywood Lofi",
+      "url": "https://firebasestorage.googleapis.com/v0/b/radio-22579.appspot.com/o/Iktara%20-%20Kavita%20Seth%2C%20Amit%20Trivedi%20%5BWORMONO%20Lofi%20Remake%5D%20_%20Wake%20Up%20Sid%20_%20Bollywood%20Lofi.mp3?alt=media&token=37144917-643a-4803-81d7-ddc3cbc88562",
+      "duration": 189,
+      "id": "iktara"
+    },
+    {
+      "name": "Jaan Nisaar - Arijit Singh [WORMONO Lofi Remake] _ Kedarnath _ Bollywood Lofi",
+      "url": "https://firebasestorage.googleapis.com/v0/b/radio-22579.appspot.com/o/Jaan%20Nisaar%20-%20Arijit%20Singh%20%5BWORMONO%20Lofi%20Remake%5D%20_%20Kedarnath%20_%20Bollywood%20Lofi.mp3?alt=media&token=ff64bc0e-e7d9-4c82-bd53-8e04e05d0528",
+      "duration": 183,
+      "id": "jaan-nisaar"
+    },
+    {
+      "name": "Jashn-E-Bahaaraa - Javed Ali, AR Rahman [WORMONO Lofi Remake] _ Jodhaa Akbar _ Bollywood Lofi",
+      "url": "https://firebasestorage.googleapis.com/v0/b/radio-22579.appspot.com/o/Jashn-E-Bahaaraa%20-%20Javed%20Ali%2C%20AR%20Rahman%20%5BWORMONO%20Lofi%20Remake%5D%20_%20Jodhaa%20Akbar%20_%20Bollywood%20Lofi.mp3?alt=media&token=9881ff13-3403-4793-940d-59c4ed284d3b",
+      "duration": 233,
+      "id": "jashn-e-bahara"
+    },
+    {
+      "name": "Kabira - Tochi Raina, Rekha Bhardwaj [WORMONO Lofi Remake] Yeh Jawaani Hai Deewani _ Bollywood Lofi",
+      "url": "https://firebasestorage.googleapis.com/v0/b/radio-22579.appspot.com/o/Kabira%20-%20Tochi%20Raina%2C%20Rekha%20Bhardwaj%20%5BWORMONO%20Lofi%20Remake%5D%20Yeh%20Jawaani%20Hai%20Deewani%20_%20Bollywood%20Lofi.mp3?alt=media&token=4c88b074-a2a8-4773-bbb2-4ba0d208ec51",
+      "duration": 178,
+      "id": "kabira"
+    },
+    {
+      "name": "Kun Faya Kun - A.R. Rahman, Mohit Chauhan [WORMONO x Drifting Lights Lofi Remake] _ Bollywood Lofi",
+      "url": "https://firebasestorage.googleapis.com/v0/b/radio-22579.appspot.com/o/Kun%20Faya%20Kun%20-%20A.R.%20Rahman%2C%20Mohit%20Chauhan%20%5BWORMONO%20x%20Drifting%20Lights%20Lofi%20Remake%5D%20_%20Bollywood%20Lofi.mp3?alt=media&token=746fa54e-5f4c-4af6-87ce-bf12c6792133",
+      "duration": 436,
+      "id": "kun faya kun"
+    },
+    {
+      "name": "Parshawan - Harnoor [WORMONO Lofi Remake] - Gifty - JayB Singh - Punjabi Lofi (320 kbps)",
+      "url": "https://firebasestorage.googleapis.com/v0/b/radio-22579.appspot.com/o/Parshawan%20-%20Harnoor%20%5BWORMONO%20Lofi%20Remake%5D%20-%20Gifty%20-%20JayB%20Singh%20-%20Punjabi%20Lofi%20(320%20kbps).mp3?alt=media&token=6d5e5b3d-e12d-4e4a-b0a4-4f37a9dc05ff",
+      "duration": 152,
+      "id": "parshawan"
+    },
+    {
+      "name": "Raanjhanaa - A.R. Rahman [WORMONO x @Veerdo  Lofi Remake] _ Raanjhanaa _ Bollywood Lofi",
+      "url": "https://firebasestorage.googleapis.com/v0/b/radio-22579.appspot.com/o/Raanjhanaa%20-%20A.R.%20Rahman%20%5BWORMONO%20x%20%40Veerdo%20%20Lofi%20Remake%5D%20_%20Raanjhanaa%20_%20Bollywood%20Lofi.mp3?alt=media&token=bcc96a14-7a41-4862-bf7b-368f61f3c373",
+      "duration": 176,
+      "id": "raanjhanaa"
+    },
+    {
+      "name": "Shayad - Arijit Singh [WORMONO Lofi Remake] _ Love Aaj Kal _ Bollywood Lofi",
+      "url": "https://firebasestorage.googleapis.com/v0/b/radio-22579.appspot.com/o/Shayad%20-%20Arijit%20Singh%20%5BWORMONO%20Lofi%20Remake%5D%20_%20Love%20Aaj%20Kal%20_%20Bollywood%20Lofi.mp3?alt=media&token=02092bf8-1b21-4bce-b9e0-fff4660c13cd",
+      "duration": 192,
+      "id": "shayad"
+    },
+    {
+      "name": "Tum Se Hi - Mohit Chauhan [WORMONO x @Veerdo  Lofi Remake] _ Jab We Met _ Bollywood Lofi",
+      "url": "https://firebasestorage.googleapis.com/v0/b/radio-22579.appspot.com/o/Tum%20Se%20Hi%20-%20Mohit%20Chauhan%20%5BWORMONO%20x%20%40Veerdo%20%20Lofi%20Remake%5D%20_%20Jab%20We%20Met%20_%20Bollywood%20Lofi.mp3?alt=media&token=7c9859c4-e118-408f-9c15-54b14183d6e3",
+      "duration": 291,
+      "id": "tum se hi"
+    },
+    {
+      "name": "Tum Tak - Javed Ali [WORMONO x @Veerdo  Lofi Remake] _ Raanjhanaa _ Bollywood Lofi",
+      "url": "https://firebasestorage.googleapis.com/v0/b/radio-22579.appspot.com/o/Tum%20Tak%20-%20Javed%20Ali%20%5BWORMONO%20x%20%40Veerdo%20%20Lofi%20Remake%5D%20_%20Raanjhanaa%20_%20Bollywood%20Lofi.mp3?alt=media&token=2233f445-6819-4398-a3db-70840a658571",
+      "duration": 208,
+      "id": "tum tak"
     }
-
   ]
 }
