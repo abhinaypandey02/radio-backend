@@ -22,6 +22,6 @@ io.on("connection",(socket:Socket)=>{
         socket.emit("newChat",chats);
     })
     socket.on("getChats",()=>{
-        socket.emit("newChat",chats);
+        io.emit("newChat",chats);
     })
 })
